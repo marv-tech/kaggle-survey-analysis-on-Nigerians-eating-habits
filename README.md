@@ -1,6 +1,6 @@
-# THIS IS THE KAGGLE SURVEY ANALYSIS ON NIGERIANS FAST FOOD HABITS
+# THIS IS THE ANALYSIS OF KAGGLE DATA SETS ON FACTORS RESPONSIBLE FOR NIGERIANS EATERY CHOICES.
 
-## Table of Contents##
+## Table of Contents
 1.Installation
 2.Project Motivation
 3.File Descriptions
@@ -18,7 +18,7 @@ This projected was motivated by large amount of eateries present in Nigeria,the 
 This notebook contains exploratory analysis and visualization of this analysis.
 
 ## Results
-The final result after proper data analysis can be found [https://medium.com/@marvischukz/have-you-been-curious-on-how-nigerians-make-eatery-choices-37d9cd1aef69](here).
+The final result after proper data analysis can be found [here](https://medium.com/@marvischukz/have-you-been-curious-on-how-nigerians-make-eatery-choices-37d9cd1aef69).
 
 ## Licensing, Authors, and Acknowledgements.
-Credits goes to kaggle for the data sets
+Credits goes to kaggle for the data set.
